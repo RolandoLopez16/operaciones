@@ -1,0 +1,12 @@
+{
+  "name": "operacionees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/operaciones.js",
+  "scripts": {
+    "start": "node src/operaciones.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
